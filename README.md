@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm Luke</h1>
+<h3 align="center">A CS student from Texas studying in Germany</h3>
 
-<!--
-**luke-rucker/luke-rucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=luke-rucker&count_private=true&include_all_commits=true&theme=cobalt"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-rucker&layout=compact&theme=cobalt&langs_count=15" />
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=luke-rucker&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
