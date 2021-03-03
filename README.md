@@ -7,6 +7,6 @@
 
 <div>
   <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=luke-rucker&count_private=true&include_all_commits=true&theme=onedark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-rucker&layout=compact&theme=onedark&langs_count=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-rucker&layout=compact&theme=onedark" />
 </div>
 
