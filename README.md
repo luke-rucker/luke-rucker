@@ -5,8 +5,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=luke-rucker&theme=onedark&margin-w=15&margin-h=15&column=7"/>
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=luke-rucker&count_private=true&include_all_commits=true&theme=onedark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-rucker&layout=compact&theme=onedark&langs_count=15" />
-
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luke-rucker&count_private=true&include_all_commits=true&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-rucker&layout=compact&theme=onedark&langs_count=15" />
+</div>
 
